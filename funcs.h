@@ -3,5 +3,6 @@
  
 double MySum(double, double);
 double MySub(double, double); 
-
- #endi
+double MyMul(double, double);
+double MyDiv(double, double);
+ #endif
